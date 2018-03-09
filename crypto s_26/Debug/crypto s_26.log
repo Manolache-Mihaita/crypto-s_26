@@ -1,0 +1,12 @@
+﻿  crypto s_26.cpp
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(220): warning C4018: '<': signed/unsigned mismatch
+  crypto s_26.vcxproj -> C:\Users\manol\source\repos\crypto s_26\Debug\crypto s_26.exe
