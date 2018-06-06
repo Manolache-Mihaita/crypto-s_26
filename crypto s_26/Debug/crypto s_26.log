@@ -1,4 +1,5 @@
-﻿  crypto s_26.cpp
+﻿  stdafx.cpp
+  crypto s_26.cpp
 c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(22): warning C4018: '<': signed/unsigned mismatch
 c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(39): warning C4018: '<': signed/unsigned mismatch
 c:\users\manol\source\repos\crypto s_26\crypto s_26\crypto s_26.cpp(93): warning C4018: '<': signed/unsigned mismatch
